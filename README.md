@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
  █████╗ ██████╗ ████████╗██╗   ██╗██████╗  ██████╗ 
 ██╔══██╗██╔══██╗╚══██╔══╝██║   ██║██╔══██╗██╔═══██╗
@@ -10,6 +12,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arturoordaz-gutierrez)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:a.ordazgu@gmail.com)
 
+</div>
+
 ---
 
 ## About Me
@@ -18,7 +22,7 @@ Hi, I'm Arturo! I'm a Cal Poly SLO student studying Economics with a concentrati
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,6 +35,16 @@ Hi, I'm Arturo! I'm a Cal Poly SLO student studying Economics with a concentrati
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23CC6600.svg?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=aordazgu&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=aordazgu&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aordazgu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
